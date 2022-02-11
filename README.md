@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @salarte
+- 👀 I’m interested in Block Chain and machine learning 
+- 🌱 I’m currently python and solidity
+- 💞️ I’m looking to collaborate on smart contract and dapp projects
+- 📫 How to reach me idk
